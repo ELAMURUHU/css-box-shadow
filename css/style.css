@@ -1,0 +1,100 @@
+.first p{
+	width:200px;
+	height:auto;
+	background-color:#00ffff54;
+	box-shadow: 30px 10px grey;
+	 margin-left: 50px;
+}
+.second p{
+	width:200px;
+	height:auto;
+	background-color: #ff8080;
+	box-shadow: -28px 20px 10px grey;
+    margin-left: 50px;
+}
+
+.third p{
+	width:200px;
+	height:auto;
+	background-color: #ff8080;
+	box-shadow: 20px -40px 10px grey;
+    margin-left: 50px;
+	margin-top:150px;
+}
+
+.fourth p{
+	width:200px;
+	height:auto;
+	background-color: #ff8080;
+	box-shadow: 20px 50px 10px grey;
+    margin-left: 50px;
+	margin-top:80px;
+}
+
+.fifth p{
+	width:200px;
+	height:auto;
+	background-color:yellow;
+	 box-shadow: 20px 20px 50px 15px grey; 
+	 
+	 margin-left: 50px;
+	 margin-top:80px;
+}
+.sixth p{
+	width:200px;
+	height:auto;
+	background-color:#dd99ff;
+	box-shadow: 20px 20px 50px 10px pink inset;
+	 margin-left: 50px;
+	 margin-top:80px;
+}
+
+.seventh p{
+	width:200px;
+	height:auto;
+	background-color:#dd99ff;
+	 box-shadow: 5px 10px 20px red inset;
+	 margin-left: 50px;
+	 margin-top:80px;
+	
+}
+.eight p{
+	width:500px;
+	height:auto;
+	box-shadow: 5px 5px #ff1a75, 10px 10px #8000ff, 15px 15px #ff9900;
+	background-color:#dd99ff;
+	 
+	 margin-left: 50px;
+	 margin-top:80px;
+	
+}
+
+.ninth p{
+	width:200px;
+	height:auto;
+	background-color:yellow;
+	
+	 box-shadow: 0 0 0 2em #f4aab9, 0 0 0 4em #66ccff;
+	 margin-left: 150px;
+	 margin-top:150px;
+}
+
+
+
+
+.ipl{
+	border-style:solid;
+border-color:black;
+margin-top:80px;
+}
+
+.csk{
+	height:100px;
+width:100px;
+margin:0 auto;
+padding:20px;
+background-color:#80aaff;
+text-align:center;
+border-radius:;
+box-shadow:0px 0px 10px 20px #cc0052,0px 0px 15px 40px  #660066;
+  }
